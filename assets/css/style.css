@@ -1,0 +1,18 @@
+.textCenter{
+	text-align:center;
+}
+.paddingStyle{
+	padding-left:20px;
+	padding-right:20px;
+}
+#gifs-appear-here{
+	padding-top: 20px;
+	width: 600px;
+	margin-left: 340px;
+}
+.results-box {
+	align-content: center;
+}
+h3 {
+	text-align: center;
+}
